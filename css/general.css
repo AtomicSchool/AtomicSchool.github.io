@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    /* border: 1px solid #000; */
 }
 
 body {
@@ -10,12 +11,14 @@ body {
 h1 {
     color: white;
     font-family: "Monaco", "Verdana", sans-serif, serif;
+    font-size: 3em;
     text-align: center;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 #logo {
-    width: 35%;
+    width: 30%;
     display: block;
     margin: auto;
+    margin-top: 50px;
 }
